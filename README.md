@@ -26,12 +26,6 @@ I specialize in building scalable backend architectures, high-performance web sc
 
 ---
 
-### 📊 GitHub Stats
-![Fuqiang's Stats](https://github-readme-stats.vercel.app/api?username=yufuqiang&show_icons=true&theme=transparent&rank_icon=github)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=yufuqiang&layout=compact&theme=transparent)
-
----
-
 ### 📫 Let's Connect
 - **Email:** [yufuqiang@live.com]
 
