@@ -33,8 +33,6 @@ I specialize in building scalable backend architectures, high-performance web sc
 ---
 
 ### 📫 Let's Connect
-- **Upwork:** [My Professional Profile](YOUR_UPWORK_LINK_HERE)
-- **Email:** [YOUR_EMAIL@example.com]
-- **LinkedIn:** [linkedin.com/in/YOUR_PROFILE](YOUR_LINKEDIN_LINK_HERE)
+- **Email:** [yufuqiang@live.com]
 
 *"Turning complex requirements into clean, maintainable, and efficient code."*
